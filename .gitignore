@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+weights/*.pth
+weights/*.pt
+results/
+*.zip
